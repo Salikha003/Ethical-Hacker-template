@@ -1,4 +1,4 @@
-# Ethical-Hacker-Portfolio-template
+# Ethical-Hacker-template
 
 ## [Live Site](https://ethical-hacker-template-sai.netlify.app/)
 
